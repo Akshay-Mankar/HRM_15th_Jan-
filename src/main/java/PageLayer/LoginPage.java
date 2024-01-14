@@ -27,6 +27,7 @@ public class LoginPage extends BaseClass {
 	
 	public void loingFunctionlity(String uname,String pass)
 	{
+		System.out.println("20LPA to all Trinity Members");
 		System.out.println("This is Dushyant update");
 		System.out.println("This Dushyant Update 2nd Time");
 		System.out.println("This is Sushant Update");
