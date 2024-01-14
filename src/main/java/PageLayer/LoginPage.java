@@ -29,6 +29,8 @@ public class LoginPage extends BaseClass {
 	{
 		System.out.println("This is Dushyant update");
 		System.out.println("This is Sushant Update");
+		System.out.println("This is Sushant Update for 2nd time");
+		
 		Wait.sendKeys(username,uname);
 		Wait.sendKeys(password,pass);
 		Wait.click(loginButton);	
